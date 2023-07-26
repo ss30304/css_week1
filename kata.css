@@ -151,22 +151,19 @@ table {
     vertical-align: bottom;
 }
 
-.img1 {
-    margin-right: 20px;
-}
-
-.text h2 {
-    font-size: 20px;
+.text title {
     line-height: 1.2;
+    font-size: 20px;
 }
 
 .text p {
-    font-size: 16px;
     line-height: 1.5;
+    font-size: 16px;
     margin-bottom: 24px;
 }
 
 .text {
+    margin-left: 20px;
     margin-right: 20px;
 }
 
@@ -174,12 +171,12 @@ table {
     vertical-align: bottom;
 }
 
+.footer {
+    height: 120px;
+}
+
 .footer p {
     font-size: 16px;
     line-height: 1.5;
     text-align: center;
-}
-
-.footer {
-    height: 120px;
 }
